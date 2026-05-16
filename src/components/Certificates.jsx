@@ -6,29 +6,43 @@ const Certificates = () => {
             title: 'Java_Foundation_Certification',
             issuer: 'Infosys Springboard',
             date: '2025',
-            image: '/src/assets/cert1.jpg', // Replace with actual image path
-            link: '#'
+            image: '/src/assets/cert1.jpg',
+            link: 'https://drive.google.com/file/d/1ttZRDVok0xJzYjSp8jhV2VRaNyN8jxrB/view?usp=sharing'
+        },
+        {
+            title: 'Database and SQL',
+            issuer: 'Infosys Springboard',
+            date: '2025',
+            image: '/src/assets/cert1.jpg',
+            link: 'https://drive.google.com/file/d/1FmBmJQ0iZZsp2g0ykVRWTdzrUQCPSMFC/view?usp=sharing'
+        },
+        {
+            title: 'Introduction to IOT',
+            issuer: 'Infosys Springboard',
+            date: '2025',
+            image: '/src/assets/cert1.jpg',
+            link: 'https://drive.google.com/file/d/1s-OxQZyhbhyZACNlZdsGj2PNbfeTgJJh/view?usp=drive_link'
         },
         {
             title: 'Data Structures and Algorithms using Java',
             issuer: 'Infosys Springboard',
             date: '2025',
             image: '/src/assets/cert2.jpg',
-            link: '#'
+            link: 'https://drive.google.com/file/d/1aztwwcx2uzqwXLgdqzJGYqdJPQPoyN9v/view?usp=sharing'
         },
         {
             title: 'Gemini Certified Student',
             issuer: 'Google',
             date: '2025',
             image: '/src/assets/cert3.jpg',
-            link: '#'
+            link: 'https://drive.google.com/file/d/1JdCxuyE3iyinsnuY8Euw1vMnf6nzMTl7/view?usp=sharing'
         },
         {
             title: 'Python Programming',
-            issuer: 'Codecademy',
+            issuer: 'Livewire',
             date: '2022',
             image: '/src/assets/cert4.jpg',
-            link: '#'
+            link: 'https://drive.google.com/file/d/12sAC4zhHVCeNG_NoGKaSAv9WNhPv-DY5/view?usp=sharing'
         }
     ];
 

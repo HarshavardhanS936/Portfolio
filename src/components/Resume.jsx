@@ -25,7 +25,7 @@ const Resume = () => {
                             Get a comprehensive overview of my skills, experience, and education.
                         </p>
                         <a
-                            href="https://drive.google.com/file/d/1qixkrCDYC3OXTAHdZAxqgwtd4R8l7jqR/view?usp=drive_link"
+                            href="https://drive.google.com/drive/folders/1Mxqdt_5gByMFe4YBwwKHmgtIqOfLWkVh?usp=sharing"
                             download
                             className="inline-flex items-center gap-2 px-6 py-3 btn-primary text-white rounded-full font-semibold hover:shadow-lg transition-all"
                         >
