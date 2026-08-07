@@ -1,4 +1,8 @@
 import React from 'react';
+import cert1 from '../assets/cert1.jpg';
+import cert2 from '../assets/cert2.jpg';
+import cert3 from '../assets/cert3.jpg';
+import cert4 from '../assets/cert4.jpg';
 
 const Certificates = () => {
     const certificates = [
@@ -6,42 +10,42 @@ const Certificates = () => {
             title: 'Java_Foundation_Certification',
             issuer: 'Infosys Springboard',
             date: '2025',
-            image: '/src/assets/cert1.jpg',
+            image: cert1,
             link: 'https://drive.google.com/file/d/1ttZRDVok0xJzYjSp8jhV2VRaNyN8jxrB/view?usp=sharing'
         },
         {
             title: 'Database and SQL',
             issuer: 'Infosys Springboard',
             date: '2025',
-            image: '/src/assets/cert1.jpg',
+            image: cert1,
             link: 'https://drive.google.com/file/d/1FmBmJQ0iZZsp2g0ykVRWTdzrUQCPSMFC/view?usp=sharing'
         },
         {
             title: 'Introduction to IOT',
             issuer: 'Infosys Springboard',
             date: '2025',
-            image: '/src/assets/cert1.jpg',
+            image: cert1,
             link: 'https://drive.google.com/file/d/1s-OxQZyhbhyZACNlZdsGj2PNbfeTgJJh/view?usp=drive_link'
         },
         {
             title: 'Data Structures and Algorithms using Java',
             issuer: 'Infosys Springboard',
             date: '2025',
-            image: '/src/assets/cert2.jpg',
+            image: cert2,
             link: 'https://drive.google.com/file/d/1aztwwcx2uzqwXLgdqzJGYqdJPQPoyN9v/view?usp=sharing'
         },
         {
             title: 'Gemini Certified Student',
             issuer: 'Google',
             date: '2025',
-            image: '/src/assets/cert3.jpg',
+            image: cert3,
             link: 'https://drive.google.com/file/d/1JdCxuyE3iyinsnuY8Euw1vMnf6nzMTl7/view?usp=sharing'
         },
         {
             title: 'Python Programming',
             issuer: 'Livewire',
             date: '2022',
-            image: '/src/assets/cert4.jpg',
+            image: cert4,
             link: 'https://drive.google.com/file/d/12sAC4zhHVCeNG_NoGKaSAv9WNhPv-DY5/view?usp=sharing'
         }
     ];

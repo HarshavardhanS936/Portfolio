@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { content } from '../data/content';
+import profileImg from '../assets/Pass Pic.jpeg';
 
 const About = () => {
     return (
@@ -17,7 +18,7 @@ const About = () => {
                     <div className="relative group">
                         <div className="relative z-10 w-full aspect-square max-w-md mx-auto overflow-hidden rounded-2xl border-2 border-white/10 glass-card">
                             <img
-                                src="/src/assets/Pass Pic.jpeg" // Place your image in src/assets/my_avatar.jpg
+                                src={profileImg}
                                 onError={(e) => { e.target.src = "https://placehold.co/600x600/1a1a1a/ffffff?text=HV"; }}
                                 alt="Profile Image"
                                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
