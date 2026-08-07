@@ -17,9 +17,9 @@ const About = () => {
                     <div className="relative group">
                         <div className="relative z-10 w-full aspect-square max-w-md mx-auto overflow-hidden rounded-2xl border-2 border-white/10 glass-card">
                             <img
-                                src="/src/assets/Hv_Img.jpg" // Place your image in src/assets/my_avatar.jpg
+                                src="/src/assets/Pass Pic.jpeg" // Place your image in src/assets/my_avatar.jpg
                                 onError={(e) => { e.target.src = "https://placehold.co/600x600/1a1a1a/ffffff?text=HV"; }}
-                                alt="Hv_Img.jpg"
+                                alt="Profile Image"
                                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
                             />
 
